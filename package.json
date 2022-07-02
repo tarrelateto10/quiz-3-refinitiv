@@ -1,0 +1,15 @@
+{
+  "name": "quiz-3-refinitiv",
+  "version": "1.0.0",
+  "description": "quiz-3-refinitiv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "html-table-to-json": "^1.0.0"
+  }
+}
